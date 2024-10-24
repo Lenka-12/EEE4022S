@@ -1,0 +1,17 @@
+../Core/Src/main.c:90:6:TDM4Init	1
+../Core/Src/main.c:109:5:main	2
+../Core/Src/main.c:177:6:SystemClock_Config	3
+../Core/Src/main.c:227:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:252:13:MX_ADC3_Init	3
+../Core/Src/main.c:304:13:MX_I2C1_Init	4
+../Core/Src/main.c:352:13:MX_SAI1_Init	3
+../Core/Src/main.c:414:13:MX_TIM2_Init	4
+../Core/Src/main.c:457:13:MX_DMA_Init	1
+../Core/Src/main.c:481:13:MX_GPIO_Init	1
+../Core/Src/main.c:540:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:545:6:HAL_SAI_RxCpltCallback	7
+../Core/Src/main.c:564:6:HAL_ADC_ConvCpltCallback	3
+../Core/Src/main.c:579:6:USB_RxCpltCallback	4
+../Core/Src/main.c:604:6:USB_TxCpltCallback	4
+../Core/Src/main.c:622:6:MPU_Config	1
+../Core/Src/main.c:653:6:Error_Handler	1

@@ -1,0 +1,7 @@
+../ADC_Driver/Source/ADAU1978.c:12:19:Audio_ADC_Init	56	static
+../ADC_Driver/Source/ADAU1978.c:49:9:isPll_locked	32	static
+../ADC_Driver/Source/ADAU1978.c:61:10:getCliipped	32	static
+../ADC_Driver/Source/ADAU1978.c:70:6:Audio_ADC_StructInit	16	static
+../ADC_Driver/Source/ADAU1978.c:82:16:gain_code	16	static
+../ADC_Driver/Source/ADAU1978.c:89:19:Audio_ADC_Calibrate	32	static
+../ADC_Driver/Source/ADAU1978.c:105:19:Audio_ADC_PowerOn	32	static
