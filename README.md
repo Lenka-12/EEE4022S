@@ -1,8 +1,4 @@
-Here’s the updated README file incorporating your changes:
-
----
-
-# Audio Digitization System
+# Audio Digitisation System
 
 ## Overview
 This project demonstrates an audio digitization system utilizing the **PCM1808** and **ADAU1978** ADCs connected to the **STM32F7** microcontroller. The system captures audio data and sends it to a PC for further analysis using MATLAB scripts.
