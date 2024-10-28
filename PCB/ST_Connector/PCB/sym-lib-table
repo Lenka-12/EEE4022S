@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "M55-6101242R")(type "KiCad")(uri "C:/Users/malef/OneDrive/Documents/KiCad/8.0/projects/M55-6101242R/KiCad/M55-6101242R.kicad_sym")(options "")(descr ""))
+  (lib (name "M55-6001242R")(type "Legacy")(uri "C:/Users/malef/OneDrive/Documents/KiCad/8.0/projects/M55-6001242R/KiCad/M55-6001242R.lib")(options "")(descr ""))
+)
