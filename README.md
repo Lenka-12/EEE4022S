@@ -10,7 +10,7 @@ This project demonstrates an audio digitization system utilizing the **PCM1808**
   - Connected to **SAI1 Block B** over **I2S**.
   - Operates at **48 kHz** with **DMA circular mode**.
 - **ADAU1978 Audio ADC**
-  - Based on the **STEVAL-STWINMAV1** platform.
+  - Based on the **STEVAL-STWINMAV1** module.
   - Connected via **TDM4**.
   - Operates at **24 bits**, **48 kHz**, with **DMA circular mode**.
 - **Integrated ADC**
@@ -25,4 +25,7 @@ This project demonstrates an audio digitization system utilizing the **PCM1808**
 - **LD1**: Integrated ADC active
 - **LD2**: PCM1808 active
 - **LD3**: ADAU1978 active
+
+## PCB
+- This folders consists of **STEVAL-STWINMAV1** module adapter and Audio Digitisation Hardware based on PCM1862 that was not tested due to production delay.
 
