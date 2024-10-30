@@ -35,6 +35,10 @@ This project implements a complete audio digitization pipeline that captures aud
 - 24-bit resolution at 48 kHz
 - DMA circular mode operation
 
+> **Important Note**: When configuring SAI for TDM:
+> - Clock strobing must be set to rising edge
+> - Frame Synchro offset must be set before the First Bit
+
 ## 🔌 Communication
 
 ### USB Interface
