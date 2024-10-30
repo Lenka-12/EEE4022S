@@ -91,7 +91,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ✨ Acknowledgments
 
 - STMicroelectronics for the STEVAL-STWINMAV1 reference design
-- SparkFun Electronics for DEVKIT-MEMS-001 and BOB-09816
+- Same Sky for DEVKIT-MEMS-001
+- SparkFun Electronics for BOB-09816
 - Contributors and testers
 
 ---
