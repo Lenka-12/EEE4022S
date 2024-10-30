@@ -2,14 +2,14 @@
 close all; clc; clear;
 samplingRate = 48000; % Sampling rate (48 kHz)
 duration = 60; % Duration of the audio in seconds
-frequency = 500; % Frequency of the sine wave (1 kHz)
+frequency = 500; % Frequency of the sine wave
 noiseLevel = 0.1; % Amplitude of the white noise
 
 % Generate time vector
 t = 0:1/samplingRate:duration; % Time vector from 0 to duration with 1/samplingRate step
 
 % Generate a sine wave
-sineWave = 0.5 * sin(2 * pi * frequency * t) + 0.5 * sin(2 * pi * 600 * t)+0.5 * sin(2 * pi * 800 * t); % Amplitude of 0.5
+sineWave = 0.5 * sin(2 * pi * frequency * t);
 
 % Generate white noise
 whiteNoise = noiseLevel * randn(size(sineWave)); % White noise
