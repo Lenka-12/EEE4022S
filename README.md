@@ -57,7 +57,7 @@ This project implements a complete audio digitization pipeline that captures aud
 ## 🛠️ Hardware Sources
 
 ### Microphones
-- [DEVKIT-MEMS-001](https://www.sparkfun.com/products/9816)
+- [DEVKIT-MEMS-001](https://www.sameskydevices.com/product/audio/microphones/development-kits/devkit-mems-001)
   - Bottom port MEMS mic → PCM1808
   - Top port MEMS mic → Integrated ADC
 
@@ -75,25 +75,7 @@ This project implements a complete audio digitization pipeline that captures aud
 The repository includes:
 - STEVAL-STWINMAV1 module adapter designs
 - Audio Digitisation Hardware based on PCM1862 (production pending)
-
-## 🚀 Getting Started
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/audio-digitisation-system.git
-```
-
-2. Install dependencies (Python script requirements)
-```bash
-pip install -r requirements.txt
-```
-
-3. Connect the hardware components according to the pinout documentation
-
-4. Flash the STM32F7 firmware
-
-5. Run the Python control script to begin data acquisition
-
+- 
 ## 📊 Data Analysis
 
 MATLAB scripts are provided for processing the captured audio data. See the `/matlab` directory for analysis tools.
