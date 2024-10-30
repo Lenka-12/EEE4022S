@@ -11,8 +11,9 @@ This project demonstrates an audio digitization system utilizing the **PCM1808**
   - Operates at **48 kHz** with **DMA circular mode**.
 - **ADAU1978 Audio ADC**
   - Based on the **STEVAL-STWINMAV1** module.
-  - Connected via **TDM4**.
+  - Connected via **TDM4** to **SAI1 Block A**.
   - Operates at **24 bits**, **48 kHz**, with **DMA circular mode**.
+  - when configuring the SAI for TDM, make sure that: Clock strobing is rising edge and Frame Synchro offset is Before the Fisrt Bit
 - **Integrated ADC**
   - Input from **A3** on the Nucleo board.
   - Triggered by a timer in **circular DMA mode**.
