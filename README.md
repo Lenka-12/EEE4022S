@@ -78,7 +78,7 @@ The repository includes:
 - 
 ## 📊 Data Analysis
 
-MATLAB scripts are provided for processing the captured audio data. See the `/matlab` directory for analysis tools.
+MATLAB scripts are provided for processing the captured audio data. See the `/Processing` directory for analysis tools.
 
 ## 🤝 Contributing
 
